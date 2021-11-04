@@ -5,11 +5,9 @@
 * xyz: organic molecules in tinker xyz format
 
 ## polarizability
-	This folder contains the data presented in 
-	
-	```
-	Litman, J.M.; Liu, C.; Ren, P. Atomic Polarizabilities for Interactive Dipole Induction Models 2021, submitted
-	```
+This folder contains the data presented in:
+
+__Litman, J.M.; Liu, C.; Ren, P. Atomic Polarizabilities for Interactive Dipole Induction Models 2021, submitted__
 
 * `CCSD_POLAR.XYZ`: CCSD molecular polarizability for 7211 molecules, taken from QM7b database [1]
 * `EXPT_POLAR.XYZ`: Experimental molecular polarizability for 422 molecules, taken from [2]. The molecular geometry was optimized at MP2/6-31G\* level of theory.
