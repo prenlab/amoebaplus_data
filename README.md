@@ -5,10 +5,10 @@
 * xyz: organic molecules in tinker xyz format
 
 ## polarizability
-* `CCSD\_POLAR.XYZ`: CCSD molecular polarizability for 7211 molecules, taken from QM7b database [1]
-* `EXPT\_POLAR.XYZ`: Experimental molecular polarizability for 422 molecules, taken from [2]. The molecular geometry was optimized at MP2/6-31G\* level of theory.
-* `MP2\_POLAR.XYZ`: MP2 molecular polarizability for 73 neutral molecules. Geometry at MP2/6-31G\* and molecular polarizability at aug-cc-pvtz level of theory, respectively.
-* `MP2\_POLAR\_CHARGED.XYZ`: MP2 molecular polarizability for 70 charged molecules. Geometry at MP2/6-31G\* and molecular polarizability at aug-cc-pvtz level of theory, respectively.
+* `CCSD_POLAR.XYZ`: CCSD molecular polarizability for 7211 molecules, taken from QM7b database [1]
+* `EXPT_POLAR.XYZ`: Experimental molecular polarizability for 422 molecules, taken from [2]. The molecular geometry was optimized at MP2/6-31G\* level of theory.
+* `MP2_POLAR.XYZ`: MP2 molecular polarizability for 73 neutral molecules. Geometry at MP2/6-31G\* and molecular polarizability at aug-cc-pvtz level of theory, respectively.
+* `MP2_POLAR_CHARGED.XYZ`: MP2 molecular polarizability for 70 charged molecules. Geometry at MP2/6-31G\* and molecular polarizability at aug-cc-pvtz level of theory, respectively.
 
 ## References
 1. Wilkins, D. M.; Grisafi, A.; Yang, Y.; Lao, K. U.; DiStasio, R. A.; Ceriotti, M., Accurate molecular polarizabilities with coupled cluster theory and machine learning. Proceedings of the National Academy of Sciences 2019, 116 (9), 3401-3406.
